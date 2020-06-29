@@ -2,7 +2,7 @@
 This is a quick chrome extension which will pop up an alert with a dad joke.
 
 To use this extension:
-1) Download the files
+1) Download the folder
 2) Open Chrome and type in chrome://extensions/
 3) Toggle 'Developer mode' in the top right
 4) Click 'Load unpacked' and select the directory you saved the files in
