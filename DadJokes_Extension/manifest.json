@@ -1,12 +1,13 @@
 {
-    "manifest_version": 2,
-    "name": "Dad Joke Extension",
-    "description": "Recieve a dad joke at a click of a button! Jokes from https://icanhazdadjoke.com",
-    "version": "0.1",
-     "browser_action": {
-        "default_icon": "icon.png"
-      },
-      "background": {
-      "scripts": ["background.js"]
-    }
+  "manifest_version": 3,
+  "name": "Dad Joke Fetcher",
+  "version": "1.0",
+  "icons" : { "32": "icon.png"},
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Get a dad joke"
+  },
+  "host_permissions": [
+    "https://icanhazdadjoke.com/"
+  ]
 }
