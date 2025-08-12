@@ -6,6 +6,6 @@ To use this extension:
 2) Open Chrome and type in chrome://extensions/
 3) Toggle 'Developer mode' in the top right
 4) Click 'Load unpacked' and select the directory you saved the files in
-5) Open a new tab and click on the icon for the extension
+5) Open a new tab and click on the puzzle piece then the extension [Make sure to pin it!]
 
 All jokes come from the api: https://icanhazdadjoke.com
