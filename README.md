@@ -1,11 +1,25 @@
-# DadJokes-ChromeExtension
-This is a quick chrome extension which will pop up an alert with a dad joke.
+# DadJokes Chrome Extension 🤣
 
-To use this extension:
-1) Download the folder
-2) Open Chrome and type in chrome://extensions/
-3) Toggle 'Developer mode' in the top right
-4) Click 'Load unpacked' and select the directory you saved the files in
-5) Open a new tab and click on the puzzle piece then the extension [Make sure to pin it!]
+A simple Chrome extension that serves you a random **dad joke** at the click of a button. Perfect for when you need a quick laugh (or groan).
 
-All jokes come from the api: https://icanhazdadjoke.com
+All jokes are powered by the [icanhazdadjoke API](https://icanhazdadjoke.com).
+
+---
+
+## 🚀 Getting Started
+
+1. Download or clone this repo.  
+2. Open Chrome and go to `chrome://extensions/`.  
+3. Toggle **Developer mode** in the top right.  
+4. Click **Load unpacked** and select this project’s folder.  
+5. Open a new tab, click the puzzle piece icon, and pin the extension.  
+
+Now you’re just one click away from a dad joke! 👨‍🦳
+
+---
+
+## 🛠️ Tech Used
+
+- **Manifest V3** for Chrome extensions  
+- **Vanilla JavaScript**  
+- **icanhazdadjoke API**
